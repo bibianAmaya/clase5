@@ -1,2 +1,5 @@
 # clase5
-actividadPares
+actividadPares 
+primerEstado :jack_o_lantern:
+segundoEstado :fireworks:
+tercerEstado :firecracker:
